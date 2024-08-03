@@ -1,0 +1,7 @@
+.bigbox {
+    background-color: #B3DEC1;
+    /*background-color: #7DCD85;*/
+    height: 96vh;
+    justify-content: center;
+    align-items: center;
+}
